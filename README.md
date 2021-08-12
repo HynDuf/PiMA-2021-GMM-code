@@ -2,5 +2,5 @@
 A Jupyter notebook for GMM in PiMA 2021
 
 * Implementation of GMM
-* Test on some datasets, visualize GMM after each EM steps
+* Test on some datasets, visualize GMM after each EM step
 * Implementation of GMM semi-supervised 
